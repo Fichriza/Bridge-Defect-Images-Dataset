@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Indonesia Bridge Defect Images Dataset 🏗️📸
+# Indonesia Bridge Defect Images Dataset 🏗️📸<<<<<<< HEAD
 
 The **Indonesia Bridge Defect Images Dataset** is an open dataset created to assist researchers, engineers, and machine learning enthusiasts in analyzing and detecting structural defects in bridges. This dataset features images of bridges in Indonesia, annotated with various types of defects, to support the development of computer vision models for structural health monitoring and maintenance. 🌉✨
 
